@@ -20,5 +20,5 @@ categories = [
 ]
 
 [dependencies]
-nu-plugin = "0.108.0"
-nu-protocol = "0.108.0"
+nu-plugin = "0.111.0"
+nu-protocol = "0.111.0"
