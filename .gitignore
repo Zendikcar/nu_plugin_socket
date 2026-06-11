@@ -2,7 +2,7 @@
 /target/
 /dist/
 
-/Cargo.lock
+# /Cargo.lock
 
 # Ignore editor-specific files
 .idea/
