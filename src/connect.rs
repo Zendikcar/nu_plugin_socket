@@ -186,6 +186,7 @@ impl PluginCommand for Connect {
             let metadata = Some(PipelineMetadata {
                 data_source: DataSource::None,
                 content_type: None,
+                path_columns: Vec::new(),
                 custom: Record::new(),
             });
 
